@@ -1,2 +1,2 @@
 # AoI-Bots
- A reddit bot for Alterea's Agents of Influence
+ A collection of reddit bots for Alterea's Agents of Influence
